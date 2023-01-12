@@ -1,0 +1,22 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "Sample npm repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JKells99/Sample.git"
+  },
+  "author": "Jordan Kelloway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JKells99/Sample/issues"
+  },
+  "homepage": "https://github.com/JKells99/Sample#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
